@@ -1,0 +1,29 @@
+{
+  "feature_names": [
+    "speed_norm",
+    "speed_variance_norm",
+    "direction_change_norm",
+    "in_railway",
+    "in_industrial",
+    "in_crowd",
+    "zone_risk_norm",
+    "nearest_dist_norm",
+    "surround_count_norm",
+    "closing_speed_norm",
+    "cluster_size_norm",
+    "dwell_norm",
+    "speed_trend",
+    "runner_ratio",
+    "scene_density_norm",
+    "arm_speed_norm",
+    "wrist_height_norm",
+    "torso_lean_norm"
+  ],
+  "feature_dim": 18,
+  "n_samples": 10000,
+  "models": [
+    "railway",
+    "industrial",
+    "aggression"
+  ]
+}
