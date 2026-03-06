@@ -1,4 +1,4 @@
-# ZeroDay — CCTV Threat Detection
+# ThreatSense — CCTV Threat Detection
 
 Full-stack threat detection system using trained scene-specific ML classifiers.
 
